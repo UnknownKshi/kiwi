@@ -29,7 +29,7 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, 0, kColorGreen);
     Sleep(0.5f);
-    DrawText("Hello, world!!", -12*14/2, -22, kColorBlue);
+    DrawText("Hello, world!! Hello zion", -12*14/2, -22, kColorBlue);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -44, kColorRed);
     Sleep(0.5f);
